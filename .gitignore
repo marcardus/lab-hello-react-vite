@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+#node_modules
+node_modules
+
+package-lock.json
+>>>>>>> 638eda55532872057536cdba305bc6b46fbc9106
